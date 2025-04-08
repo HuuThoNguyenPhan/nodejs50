@@ -18,7 +18,7 @@ Chạy script SQL để tạo các bảng và dữ liệu mẫu:
 ```bash
 # Clone dự án
 git clone https://github.com/HuuThoNguyenPhan/nodejs50.git
-cd ten-du-an
+cd nodejs50
 
 # Cài thư viện
 npm install
